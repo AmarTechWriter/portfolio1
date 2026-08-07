@@ -6,6 +6,8 @@ Every example in this project — endpoints, payloads, error codes, webhook sign
 
 ## What's Included
 
+**All files can be accessed at GitHub: /AmarTechWriter/portfolio1**
+
 | File | Contents |
 |---|---|
 | `docs/01-quickstart.md` | First successful API call, end to end |
